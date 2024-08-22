@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(190, 43, 55);   
+     color:rgba(245, 238, 242, 0.048);
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     display: flex; 
+}
